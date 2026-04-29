@@ -1,0 +1,19 @@
+# Środowisko graficzne
+xserver-xorg
+xfce4
+xfce4-goodies
+lightdm
+openbox
+
+# Aplikacje
+firefox-esr
+mousepad
+mtpaint
+galculator
+
+# Narzędzia AI i systemowe
+python3-tk
+python3-pip
+python3-requests   # do komunikacji HTTP z LM Studio
+wget
+curl
