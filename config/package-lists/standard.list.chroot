@@ -14,6 +14,6 @@ galculator
 # Narzędzia AI i systemowe
 python3-tk
 python3-pip
-python3-requests   # do komunikacji HTTP z LM Studio
+python3-requests
 wget
 curl
