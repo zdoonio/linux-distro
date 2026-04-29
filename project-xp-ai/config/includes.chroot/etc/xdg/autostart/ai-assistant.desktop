@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=AI Assistant
+Exec=/usr/local/bin/ai_assistant.py
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true
